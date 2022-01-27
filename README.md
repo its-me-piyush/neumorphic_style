@@ -1,16 +1,35 @@
-# Flutter Neumorphic Style
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
+  </a>
+
+  <h3 align="center">Flutter Neumorphic Style Example App</h3>
+
+  <p align="center">
+    Example app with Flutter that displays a neumorphic style container.
+    <br>
+    Base project made with much  :heart: 
+    <br>
+    <br>
+    <a href="https://github.com/zsiecr/neumorphic_style/issues/new">Report bug</a>
+    ·
+    <a href="https://github.com/zsiecr/neumorphic_style/issues/new">Request feature</a>
+  </p>
+</p>
 
 https://user-images.githubusercontent.com/85029306/151352608-b91d8653-9543-4854-baed-13cc27c981c4.mp4
 
-## Getting Started
+## Table of contents
 
-This project is a starting point for a Flutter application.
+- [Quick start](#quick-start)
+- [Thanks](#thanks)
 
-A few resources to get you started if this is your first Flutter project:
+## Quick start
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thanks
+
+Thanks to all contributors and their support:
+
+Enjoy :metal:
