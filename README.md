@@ -32,7 +32,7 @@ This is a normal flutter app. You should follow the instructions in the [officia
 
 ## Contributing
 
-Please follow a general contributing guidelines.
+Have a bug or a feature request? Please follow through a contributing guidline and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/zsiecr/neumorphic_style/issues/new).
 
 Maintained by [Piyush Nagpal](https://github.com/zsiecr).
 
